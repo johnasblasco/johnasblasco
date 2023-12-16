@@ -1,5 +1,6 @@
 
 ## 🌐 Socials:
+portfolio : <a href = "johnasblasco.github.io/me">click me </a>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/johnasblasco) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/j.blasco20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnasblasco) 
 
 # 💻 Tech Stack:
