@@ -46,13 +46,13 @@
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 
- ![Johnas's Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnasblasco&custom_title=Johnas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
-| ![Johnas's github stats](https://github-readme-stats.vercel.app/api?username=johnasblasco&show_icons=true&theme=tokyonight) | ![Johnas GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnasblasco&theme=tokyonight) |
+ ![Johnas's Graph](https://github-readme-activity-graph.vercel.app/graph?username=johnasblasco&custom_title=Johnas%20GitHub%20Activity%20Graph&bg_color=none&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
+| ![Johnas's github stats](https://github-readme-stats.vercel.app/api?username=johnasblasco&show_icons=true&theme=none) | ![Johnas GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnasblasco&theme=none) |
 | --- | --- | 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnasblasco&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=johnasblasco&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnasblasco&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=johnasblasco&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=none) |
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnasblasco&theme=tokyonight&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=johnasblasco&theme=none&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
 </p>
 
 
