@@ -52,7 +52,7 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnasblasco&theme=transparent) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=johnasblasco&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=transparent) |
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnasblasco&theme=none&&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=johnasblasco&theme=tokyonight&&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
 </p>
 
 
