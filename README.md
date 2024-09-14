@@ -24,7 +24,7 @@
 
  💯 All of my projects are available at [Github](https://github.com/johnasblasco?tab=repositories)
 
- 🍆 Ask me about **my dick size**
+ 🍆 Ask me about **my hehe**
 
  ✨ How to reach me **johnaslblasco@gmail.com**
 
