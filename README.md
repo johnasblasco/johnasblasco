@@ -20,7 +20,7 @@
 
  👷‍♂️ I’m currently working on [CAPSTONE](https://github.com/johnasblasco/CAPSTONE_Parking)
 
- 💙  I’m currently learning **React**
+ 💙  I’m currently learning [NextJS](https://nextjs.org/)
 
  💯 All of my projects are available at [Github](https://github.com/johnasblasco?tab=repositories)
 
