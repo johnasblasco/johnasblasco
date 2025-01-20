@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Johnas L. Blasco</h1>
 <h3 align="center">A human with a Heart and Soul that lives on earth .</h3>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><h4 align="center">🦑Visit My Portfolio</h4></a>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
