@@ -22,7 +22,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
- 👷‍♂️ I’m currently working on [CAPSTONE](https://github.com/johnasblasco/CAPSTONE_Parking)
+ 👷‍♂️ I’m currently working on my [Portfolio](https://portfolio-five-kappa-63.vercel.app/)
 
  💙  I’m currently learning [Laravel](https://pornhub.com/)
 
