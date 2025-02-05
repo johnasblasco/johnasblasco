@@ -24,7 +24,7 @@
 
  👷‍♂️ I’m currently working on [CAPSTONE](https://github.com/johnasblasco/CAPSTONE_Parking)
 
- 💙  I’m currently learning [NextJS](https://nextjs.org/)
+ 💙  I’m currently learning [Laravel](https://pornhub.com/)
 
  💯 All of my projects are available at [Github](https://github.com/johnasblasco?tab=repositories)
 
