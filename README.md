@@ -22,9 +22,9 @@
 <tr border="none">
 <td width="50%" align="left">
 
- 👷‍♂️ I’m currently working on my [Portfolio](https://portfolio-five-kappa-63.vercel.app/)
+ 👷‍♂️ I’m currently working on my [Portfolio](https://pornhub.com/)
 
- 💙  I’m currently learning [Laravel](https://pornhub.com/)
+ 💙  I’m currently learning [Laravel](https://bootcamp.laravel.com/)
 
  💯 All of my projects are available at [Github](https://github.com/johnasblasco?tab=repositories)
 
