@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Johnas L. Blasco</h1>
 <h3 align="center">A human with a Heart and Soul that lives on earth .</h3>
+ <a href="https://user-badge.committers.top/philippines/johnasblasco">
+        <div align="center"><img src="https://user-badge.committers.top/philippines/johnasblasco.svg" alt="committer top badge"></div>
+  </a>
 <a href="https://portfolio-five-kappa-63.vercel.app/" target="_blank" rel="noreferrer">
   <div align="center">🦑Visit My Portfolio</div>
 </a>
