@@ -26,7 +26,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
- 👷‍♂️ I’m currently working on my [Portfolio](https://pornhub.com/)
+ 👷‍♂️ I’m currently working at [Simplevia](https://github.com/Simplevia2023) as intern.
 
  💙  I’m currently learning [Laravel](https://bootcamp.laravel.com/)
 
@@ -36,7 +36,7 @@
 
  ✨ How to reach me **johnaslblasco@gmail.com**
 
- ⚡ Fun fact **I think I am Funny**
+ ⚡ Fun fact **I think I am [Funny](https://pornhub.com/)**
 
 </td>
 <td width="50%" align="center">
