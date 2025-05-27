@@ -26,7 +26,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
- 👷‍♂️ I’m currently working at [Simplevia](https://github.com/Simplevia2023) as intern.
+ 👷‍♂️ I’m currently unemployed xD.
 
  💙  I’m currently learning [Laravel](https://bootcamp.laravel.com/)
 
