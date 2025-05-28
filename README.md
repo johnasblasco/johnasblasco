@@ -30,7 +30,7 @@
 
  💙  I’m currently learning [MERN](https://bootcamp.laravel.com/](https://www.mongodb.com/resources/languages/mern-stack)) and [T3 Stack](https://create.t3.gg/)
 
- 💯 All of my projects are available at [Github](https://github.com/johnasblasco?tab=repositories)
+ 💯 All of my projects are available at [GITHUB](https://github.com/johnasblasco?tab=repositories](https://github.com/johnasblasco/TechStack-2024-2025-))
 
  🌎 Visit my [Linkedin](https://www.linkedin.com/in/johnasblasco/)
 
