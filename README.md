@@ -28,7 +28,7 @@
 
  👷‍♂️ I’m currently unemployed xD.
 
- 💙  I’m currently learning [MERN]([https://bootcamp.laravel.com/](https://www.mongodb.com/resources/languages/mern-stack)) and [T3 Stack]([https://create.t3.gg/])
+ 💙  I’m currently learning [MERN](https://bootcamp.laravel.com/](https://www.mongodb.com/resources/languages/mern-stack)) and [T3 Stack](https://create.t3.gg/)
 
  💯 All of my projects are available at [Github](https://github.com/johnasblasco?tab=repositories)
 
