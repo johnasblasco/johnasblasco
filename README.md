@@ -26,7 +26,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
- 👷‍♂️ I’m currently unemployed xD.
+ 👷‍♂️ I’m currently employed xD.
 
  💙  I’m currently learning [MERN](https://bootcamp.laravel.com/](https://www.mongodb.com/resources/languages/mern-stack)) and [T3 Stack](https://create.t3.gg/)
 
